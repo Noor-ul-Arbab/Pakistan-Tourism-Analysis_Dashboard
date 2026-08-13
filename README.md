@@ -16,28 +16,28 @@
 
 <br>
 
-## 📖 Executive Summary
+##  Executive Summary
 This project delivers a comprehensive, interactive analysis of Pakistan's tourism and hospitality sector. By extracting and cleaning raw hotel data from major cities and provinces, this dashboard empowers stakeholders to track **occupancy trends, revenue streams, foreign vs. local footfall, and seasonal demand** to drive data-backed growth strategies.
 
 ---
 
 ## 🛠️ The Data Pipeline & Snapshots
 
-### 🛑 1. Raw Data Assessment
+### 1. Raw Data Assessment
 The initial dataset contained 6 years of nationwide hospitality records. It required extensive cleaning due to unformatted numeric metrics, missing structural consistency, and unstandardized geographic parameters.
 
 <div align="center">
   <img src="Pakistan_Tourism_Dashboard (Excel)/Messy Tourism Data.PNG" alt="Raw Messy Data" width="850">
 </div>
 
-### 🧹 2. ETL & Feature Engineering
+### 2. ETL & Feature Engineering
 Transformed the chaotic raw data into a structured schema. Standardized all monetary figures to **PKR**, cleaned region names (Sindh, Punjab, KPK, Balochistan, ICT), and engineered custom metrics like **Average Daily Rate (ADR)** and **Occupancy Ratios**.
 
 <div align="center">
-  <img src="Pakistan_Tourism_Dashboard (Excel)/Tourism Analysis_Dashboard.PNGassets/dashboard.png" alt="Cleaned Data" width="850">
+  <img src="Pakistan_Tourism_Dashboard (Excel)/Cleaned Tourism_Data.PNG" alt="Cleaned Data" width="850">
 </div>
 
-### 📊 3. Interactive Visualization
+### 3. Interactive Visualization
 Developed a dynamic, custom Navy Blue themed dashboard. Integrated geo-mapping for provinces and cross-filtering slicers allowing users to drill down by *City, Customer Type, and Year*.
 
 <div align="center">
@@ -48,7 +48,7 @@ Developed a dynamic, custom Navy Blue themed dashboard. Integrated geo-mapping f
 
 ## 💡 Key Performance Indicators (KPIs)
 
-*   💰 **Total Revenue:** 1.16 Billion PKR
+*   💰**Total Revenue:** 1.16 Billion PKR
 *   🏷️ **Average Daily Rate (ADR):** 14,083 PKR
 *   🛏️ **Total Rooms Booked & Guests:** 81,776
 *   📈 **Average Occupancy Rate:** 51.90%
