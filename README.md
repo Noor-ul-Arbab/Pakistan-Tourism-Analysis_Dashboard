@@ -34,14 +34,14 @@ The initial dataset contained 6 years of nationwide hospitality records. It requ
 Transformed the chaotic raw data into a structured schema. Standardized all monetary figures to **PKR**, cleaned region names (Sindh, Punjab, KPK, Balochistan, ICT), and engineered custom metrics like **Average Daily Rate (ADR)** and **Occupancy Ratios**.
 
 <div align="center">
-  <img src="Pakistan_Tourism_Dashboard (Excel)/Tourism Analysis_Dashboard.PNG" alt="Cleaned Data" width="850">
+  <img src="Pakistan_Tourism_Dashboard (Excel)/Tourism Analysis_Dashboard.PNGassets/dashboard.png" alt="Cleaned Data" width="850">
 </div>
 
 ### 📊 3. Interactive Visualization
 Developed a dynamic, custom Navy Blue themed dashboard. Integrated geo-mapping for provinces and cross-filtering slicers allowing users to drill down by *City, Customer Type, and Year*.
 
 <div align="center">
-  <img src="assets/dashboard.png" alt="Final Dashboard" width="850">
+  <img src="Pakistan_Tourism_Dashboard (Excel)/Tourism Analysis_Dashboard.PNG" alt="Final Dashboard" width="850">
 </div>
 
 ---
