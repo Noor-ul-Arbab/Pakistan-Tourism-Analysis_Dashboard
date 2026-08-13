@@ -1,15 +1,9 @@
-<div align="center">
-
-<!-- 🖼️ BANNER IMAGE PLACEHOLDER (Apni koi achi si cover pic yahan lagayein) -->
-![Pakistan Tourism Banner](assets/banner_image.png)
-
 # 🏔️ Pakistan Tourism & Hospitality Analytics 
 
 **Strategic Dashboard Analyzing 6 Years of Hotel Bookings, Revenue & Demographics (2020–2025)**
 
 [![Status](https://img.shields.io/badge/Project_Status-Completed-success?style=flat-square)](#)
-[![Power BI](https://img.shields.io/badge/Visualization-Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)](#)
-[![Excel](https://img.shields.io/badge/Data_Processing-MS_Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)](#)
+[![Excel](https://img.shields.io/badge/Data_Processing_&_Visualization-MS_Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)](#)
 [![Region](https://img.shields.io/badge/Region-Pakistan-01411C?style=flat-square)](#)
 
 </div>
