@@ -27,7 +27,7 @@ This project delivers a comprehensive, interactive analysis of Pakistan's touris
 The initial dataset contained 6 years of nationwide hospitality records. It required extensive cleaning due to unformatted numeric metrics, missing structural consistency, and unstandardized geographic parameters.
 
 <div align="center">
-  <img src="assets/messy_data.png" alt="Raw Messy Data" width="850">
+  <img src="Pakistan_Tourism_Dashboard (Excel)/Messy Tourism Data.PNG" alt="Raw Messy Data" width="850">
 </div>
 
 ### 🧹 2. ETL & Feature Engineering
